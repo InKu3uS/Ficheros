@@ -1,0 +1,6 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+Ficheros2,es.iespuertodelacruz.nefta.exception,DirectorioException,9,0,0,0,4,0,2,0,2,0
+Ficheros2,es.iespuertodelacruz.nefta.exception,FicheroException,5,4,0,0,2,2,1,1,1,1
+Ficheros2,es.iespuertodelacruz.nefta,Fichero,21,113,1,9,6,33,1,10,0,6
+Ficheros2,es.iespuertodelacruz.nefta,Directorio,30,21,3,1,8,7,3,3,1,3
+Ficheros2,es.iespuertodelacruz.nefta,App,7,0,0,0,3,0,2,0,2,0
